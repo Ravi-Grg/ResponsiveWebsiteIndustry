@@ -1,0 +1,12 @@
+.firstDiv{
+    background-color: rgb(86, 173, 133);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(124, 72, 184);
+    font-size: 2rem;
+}
+.secondDiv{
+    background-color: rgb(174, 185, 121);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(37, 52, 187);
+    font-size: 3rem;
+}
